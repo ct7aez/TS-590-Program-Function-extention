@@ -36,10 +36,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "TS-590S(G) Program Funcion"
-Date "Sex 17 Abr 2015"
+Date "Qui 23 Abr 2015"
 Rev "1"
 Comp "by CT7AEZ"
-Comment1 "Based on an idea from Kenwood TS-590S IDM"
+Comment1 "Based on an idea from Kenwood TS-590S IDM and Rob Connelly, W1AEX"
 Comment2 "visite http://creativecommons.org/licenses/by/4.0/."
 Comment3 "Atribuição 4.0 Internacional. Para ver uma cópia desta licença,"
 Comment4 "Este trabalho está licenciado sob uma Licença Creative Commons"
