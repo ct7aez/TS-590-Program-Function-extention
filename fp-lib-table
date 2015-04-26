@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TS-590-Program-Function-extention)(type KiCad)(uri "$(KIPRJMOD).pretty")(options "")(descr ""))
+)
