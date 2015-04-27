@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201504261001+5623~23~ubuntu14.04.1-product   date = Dom 26 Abr 2015 23:45:40 WEST
+Cmp-Mod V01 Created by Cvpcb 0.201504261001+5623~23~ubuntu14.04.1-product   date = Seg 27 Abr 2015 11:54:32 WEST
 
 BeginCmp
 TimeStamp = /5526C7BC;
@@ -33,6 +33,13 @@ TimeStamp = /553A68BA;
 Reference = J3;
 ValeurCmp = RJ45;
 IdModule  = Connect:RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E12AB;
+Reference = P1;
+ValeurCmp = CONN_02X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x04;
 EndCmp
 
 BeginCmp
@@ -124,13 +131,6 @@ TimeStamp = /5526ACED;
 Reference = SW7;
 ValeurCmp = DOWN;
 IdModule  = Discret:SW_PUSH_SMALL;
-EndCmp
-
-BeginCmp
-TimeStamp = /552AB01B;
-Reference = SW8;
-ValeurCmp = MIC_EXT_PWR;
-IdModule  = Discret:swdip3;
 EndCmp
 
 BeginCmp
